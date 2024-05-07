@@ -1,13 +1,5 @@
 {
     "name": "Molg Service CI Workflow",
     "description": "CI workflow for apps created using the Molg Service framework.",
-    "iconName": "octicon smiley",
-    "categories": [
-        "continuous-integration"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "iconName": "octicon smiley"
 }
