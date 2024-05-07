@@ -3,7 +3,7 @@
     "description": "CI workflow for apps created using the Molg Service framework.",
     "iconName": "octicon smiley",
     "categories": [
-        "ruby"
+        "continuous-integration"
     ],
     "filePatterns": [
         "package.json$",
